@@ -6,13 +6,12 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-theme: minima
 locale                   : "en-US"
 title                    : "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Xiaojian Bai"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://academicpages.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/XiaojianBai/homepage"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -83,8 +82,8 @@ analytics:
 author:
   name             : "Xiaojian Bai"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Quantum Materials Research Group at Louisiana State Univeristy"
+  location         : "Baton Rouge, United States"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=82VYOAgAAAAJ&hl=en"
@@ -97,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/XiaojianBai/"
   google_plus      :
   keybase          :
   instagram        :
