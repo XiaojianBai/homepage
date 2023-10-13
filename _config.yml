@@ -11,7 +11,7 @@ title                    : "Bai Lab @ LSU"
 title_separator          : "-"
 name                     : &name "Xiaojian Bai"
 description              : &description "personal description"
-url                      : https://academicpages.github.io 
+url                      : #https://academicpages.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "XiaojianBai/homepage"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
