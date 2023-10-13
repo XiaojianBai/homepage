@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Bai Lab @ LSU"
 title_separator          : "-"
 name                     : &name "Xiaojian Bai"
 description              : &description "personal description"
 url                      : https://academicpages.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/XiaojianBai/homepage"
+repository               : "XiaojianBai/homepage"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xiaojian Bai"
+  name             : "Bai Lab"
   avatar           : "profile.png"
   bio              : "Quantum Materials Research Group at Louisiana State Univeristy"
   location         : "Baton Rouge, United States"
@@ -96,17 +96,17 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/XiaojianBai/"
+  github           : "XiaojianBai/homepage"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0002-3974-626X"
+  orcid            : "0000-0002-3974-626X"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : #"replacethistwitterhandle"
