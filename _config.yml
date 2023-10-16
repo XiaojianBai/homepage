@@ -11,7 +11,7 @@ title                    : "Bai Lab @ LSU"
 title_separator          : "-"
 name                     : &name "Xiaojian Bai"
 description              : &description "personal description"
-url                      : "https://xiaojianbai.github.io" #https://academicpages.github.io 
+url                      : "https://xiaojianbai.github.io" 
 baseurl                  : "/homepage" # the subpath of your site, e.g. "/blog"
 repository               : "XiaojianBai/homepage"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Bai Lab"
-  avatar           : "profile.png"
+  avatar           : "logo.jpg"
   bio              : "Quantum Materials Research Group at Louisiana State Univeristy"
   location         : "Baton Rouge, United States"
   employer         :
@@ -191,17 +191,7 @@ collections:
 
 # Defaults
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+
   # _pages
   - scope:
       path: ""
@@ -227,23 +217,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+
 
 # Sass/SCSS
 sass:
@@ -255,7 +229,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Chicago # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
