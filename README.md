@@ -3,9 +3,9 @@ Note for myself
 ================
 To Resolves the following error on Windows 10: "Unable to load the EventMachine C extension; To use the pure-ruby reactor, require 'em/pure_ruby'" , run [this](https://gist.github.com/samhiatt/5fea77154d17566d6addf6d2c4505aeb) batch script.
 
-Run `bundle exec jekyll serve` instead of `liveserve`
+Run `bundle exec jekyll serve` instead of `liveserve`.
 
-Below are original README info.
+Below are original README file
 ==============
 A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
 

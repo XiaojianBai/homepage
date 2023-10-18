@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "lab"
+title: "Crystal Gallery"
 permalink: /crystals/
 author_profile: true
 #redirect_from:
